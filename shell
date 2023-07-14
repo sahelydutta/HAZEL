@@ -1,0 +1,4 @@
+username/voice-assistant.git
+cd voice-assistant
+python main.py
+
